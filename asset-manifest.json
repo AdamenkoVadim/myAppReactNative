@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myAppReactNative/static/css/main.7acaea2f.css",
+    "main.js": "/myAppReactNative/static/js/main.07d3183d.js",
+    "index.html": "/myAppReactNative/index.html",
+    "main.7acaea2f.css.map": "/myAppReactNative/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/myAppReactNative/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
